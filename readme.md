@@ -24,7 +24,7 @@ $ python main.py
 
 1. Make sure "JSON" folder exist
 2. This code implements projects: <br/>
-   [LINKCUBE: A Tool for Anomaly Detection in Social Network using GBAD](https://github.com/rpaudel42/rpaudel42.github.io/blob/master/assets/LinkCube_Report.pdf)
+   [LINKCUBE: A Tool for Anomaly Detection in Social Network using GBAD](https://rpaudel42.github.io/assets/LinkCube_Report.pdf)
 
 **Description**
 LinkCube is command-line based tool written in Python.
